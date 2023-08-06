@@ -1,0 +1,4 @@
+Run Name,Mean Average Precision,Mean P@10,Mean NDCG@10,Mean NDCG@1000,Mean TBG
+stem,0.238,0.284,0.373,0.413,2.041
+monoBERT,0.254,0.316,0.409,0.429,2.240
+p-value,0.353,0.095,0.198,0.269,0.013
